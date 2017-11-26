@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A4</string>
+    <string name="simon">Simon</string>
+    <string name="start_game">Start Game</string>
+    <string name="change_settings">Change Settings</string>
+    <string name="instructions">Instructions: \nThe computer “plays” the buttons in a certain sequence by highlighting one button at a time. \nWhen the computer is done playing, the human tries to reproduce the same sequence by clicking on buttons one by one.</string>
+    <string name="number_of_buttons">Number of Buttons</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="score">Score:</string>
+    <string name="press_start_to_play">Press Start to Play</string>
+    <string name="start_a_new_game">START A NEW GAME</string>
+    <string name="watch_what_i_do">Watch what I do ...</string>
+    <string name="you_won">You won! Press Start to Play Again.</string>
+    <string name="your_turn">Your turn ...</string>
+    <string name="you_lose">You lose. Press Start to Play Again.</string>
+</resources>
